@@ -1,0 +1,1 @@
+Basic Installation of typescript. i already setup vs code for writing code and typescript global Installation .
