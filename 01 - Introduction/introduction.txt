@@ -1,0 +1,6 @@
+What is typescript => 
+English : Typescript is a superset of Javascript . it means all Javascript code is valid on Typescript. but also Typescript has extra syntax . for example enums tuples .
+
+বাংলা ঃ Typescript হচ্ছে Javascript এর উপর বেইস করে তৈরি করা একটি পাওওারফুল Programming Language . Javascript এ type related কিছু সমস্যা হয় , মূলত এই সমস্যা গুলোর সমধান সহ আরো কিছু extra syntax দিয়ে development সহজ ও বিশুদ্ভ করে তুলে ।
+
+
